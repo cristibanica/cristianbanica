@@ -6,4 +6,7 @@
         <p>ffsd</p>
         <p></p>
     </body>
+    <topic id="id_ojl_bzp_2rb" conref="testgit.dita">
+        <title/>
+    </topic>
 </topic>
